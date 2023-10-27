@@ -1,3 +1,4 @@
+<a href="https://gt.rstudio.com/"><img src="logo.svg" width="350px"/></a>
 <a href="https://leafletjs.com/"><img src="docs/images/logo.png" alt= "Leaflet" width="300px"/></a>
 # Interactive maps with leaflet
 
