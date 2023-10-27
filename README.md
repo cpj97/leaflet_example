@@ -9,25 +9,31 @@ This repository provides materials for a session that is part of the [I2DS Tools
 
 ### Session contents
 
-This session will introduce you to the modern data wrangling workflow with R and dplyr. Data wrangling is one of the core steps in the data science workflow. dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges, including the manipulation of datasets and variables. 
+Join us for an engaging workshop session on the Leaflet package in R, where you'll dive into the world of interactive mapping and geospatial data visualization. Leaflet is a powerful and flexible open-source JavaScript library for creating interactive maps in web applications. In this session, you'll learn how to harness its capabilities within the R programming environment to create stunning, interactive maps for various purposes.
+
+You can access our presentatition [here](add link to the presentation), and our exercise example [here](add link to exercise).
 
 ### Main learning objectives
 
-The goals of this session are to (1) equip you with conceptual knowledge about the dplyr package and data wrangling workflow, (2) show you the three key verbs of the pacakge, and (3) provide you with practice material as well as some further readings.
+The goals of this session are to (1) equip you with conceptual knowledge about the leaflet package and some of its applications for geospacial analysis, (2) show you  key functions and the basic steps to make an interactive map in R, and (3) provide you with practice exercise as well as some further material that can be useful for the topic of this workshop.
 
 
 ## Instructors
 
-- Simon Munzert ([website](http://simonmunzert.github.io/), [twitter](https://twitter.com/simonsaysnothin))
-- Kermit the Frog ([website](https://en.wikipedia.org/wiki/Kermit_the_Frog), [twitter](https://twitter.com/KermitTheFrog))
+- Manjiri Satam 
+- Rey Hossain
+- Camilo Pedraza Jiménez
 
 
 ## Further resources
 
-- [dplyr overview at dplyr.tidyverse.org](https://dplyr.tidyverse.org/)
-- [Hands-on dplyr tutorial by Data School on YouTube](https://www.youtube.com/watch?v=jWjqLW-u3hc)
-- [R for Data Science book - part on data wrangling](https://r4ds.had.co.nz/wrangle-intro.html)
-
+- [Leaflet documentation in R](https://rstudio.github.io/leaflet/)
+- [Leaflet package cheat sheet](https://ugoproto.github.io/ugo_r_doc/pdf/leaflet-cheat-sheet.pdf)
+- [Video tutorial 1](https://www.youtube.com/playlist?list=PL6wLL_RojB5y8uL3uuIMnJ6JoTIFywQ-r)
+- [Video tutorial 2](https://www.youtube.com/playlist?list=PLmFi_ou2WwcEyPq7Y9DvzFRLlp9-XvFDb)
+- [Maps and spatial data for all countries and their sub-divisions](https://gadm.org/)
+- [Set of third party tiles](http://leaflet-extras.github.io/leaflet-providers/preview/index.html)
+- [Leaflet for JavaScript](https://leafletjs.com/) 
 
 ## License
 
@@ -35,6 +41,6 @@ The material in this repository is made available under the [MIT license](http:/
 
 ## Statement of contributions
 
-**Simon Munzert** prepared the practice material and post-processed the recording.
+**Manjiri Satam** prepared the presentation slides and recording. 
+**Ray Hossain and Camilo Pedraza Jiménez** prepared the practice material.
 
-**Kermit the Frog** prepared the presentation slides and recording. He also provided an example to the practice material.
