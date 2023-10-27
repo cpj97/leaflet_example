@@ -1,4 +1,4 @@
-<a href="https://leafletjs.com/"><img src="docs/images/logo.png" alt= "Leaflet" width="300"/></a>
+<a href="https://leafletjs.com/"><img src="docs/images/logo.png" alt= "Leaflet" width="300px"/></a>
 # Interactive maps with leaflet
 
 
